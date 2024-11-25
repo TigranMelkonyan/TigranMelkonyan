@@ -15,8 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-<img src="https://img.icons8.com/ios/452/flow-chart.png" height="30" alt="flowchart icon" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="junit logo" />
+<img src="https://img.icons8.com/ios/452/flow-chart.png" height="30" alt="flowchart icon" />
 </div>
 
 <br /><br />
