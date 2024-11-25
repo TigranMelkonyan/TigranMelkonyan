@@ -1,5 +1,4 @@
-<h2 align="left">Hi everyone 👋🏻! I'm Tigran, a Java Developer from Armenia.</h2>
-
+<h2 align="left">Hi everyone 👋🏻! I'm Tigran, a Java Software Engineer from Armenia.</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
